@@ -6,7 +6,7 @@ Daily CSS/HTML code from [@b.bty.coder](https://facebook.com/b.bty.coder) Facebo
 **[View Live Demo](https://b-bty-coder.github.io/3d-flip-card/)**
 
 ## 📸 Preview
-![3D Flip Card Demo](demo.gif)  
+![3D Flip Card Demo](demo2.gif)  
 *Hover effect: Card flips 180° on mouse hover*
 
 ## 🛠️ Built With
