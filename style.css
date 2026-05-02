@@ -31,12 +31,12 @@ body{
 }
 
 .thefront{
-  background-image: url("Images/anime.jpg");
+  background-image: url("anime.jpg");
   background-position: right;
 }
 
 .theback{
-  background-image: url("Images/model1.jpg");
+  background-image: url("model1.jpg");
   transform: rotateY(180deg);
 }
 
